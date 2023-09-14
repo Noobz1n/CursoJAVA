@@ -22,7 +22,7 @@ public class rooms {
             System.out.println();
             System.out.println("Rent #" + i + ":");
             System.out.print("Name: ");
-            sc.nextLine(); //limpar a quebra de linha
+            sc.nextLine(); //limpa a quebra de linha
             String name = sc.nextLine();
             System.out.print("Email: ");
             String email = sc.next();

@@ -9,7 +9,7 @@ import java.util.Date;
 
 public class date_hour_pt2 {
     public static void main(String[] args){
-
+        // o time zone padrao do Java é o de londres (3 horas a frente do brasil)
         // https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html
 
 

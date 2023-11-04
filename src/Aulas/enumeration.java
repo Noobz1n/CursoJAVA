@@ -1,7 +1,7 @@
 package Aulas;
 
 import Entities.Order;
-import Entities.OrderStatus;
+import EntitiesEnum.OrderStatus;
 
 import java.util.Date;
 

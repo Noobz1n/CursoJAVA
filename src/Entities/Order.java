@@ -1,5 +1,7 @@
 package Entities;
 
+import EntitiesEnum.OrderStatus;
+
 import java.util.Date;
 public class Order {
     private Integer id;
